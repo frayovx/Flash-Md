@@ -85,14 +85,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "𝐹𝑅𝐴𝑌𝑂  𝑉𝑋"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":false,
-    "value": "254751284190"
+    "value": "2349034419191"
   },
     "WARN_COUNT":
   {
